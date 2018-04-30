@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP uINS
+D InertialSense uINS module
+$ENDCMP
+#
+#End Doc Library
